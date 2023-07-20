@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&family=Roboto&display=swap');
+
+body {
+    font-family: Roboto;
+}
+h1{
+color: #2B7FFF;
+
+}
+.blue{
+    color: #2B7FFF;
+}
+button{
+    background-color: #2B7FFF;
+    color:#fff;
+}
+h2{
+    color: #011C44;
+    font-family: Play;
+    font-weight: 700;
+}
+#free  {
+    background-color: #2B7FFF;
+    color:#fff;
+}
+#policy {
+    color:#747272;
+}
+.header1 {
+    list-style-type: none;
+    font-family: Roboto;
+    font-weight: 400;
+}
+.photo3{
+    list-style-type: none;
+    font-family: Roboto;
+    font-weight: 400;
+}
+.choice {
+    list-style-type: none;
+    font-family: Roboto;
+    font-weight: 400;
+}
+header {
+    background-image: url(images/image1576.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.bzone {
+    font-family: Play;
+}
